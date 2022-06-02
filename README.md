@@ -20,7 +20,7 @@
   <h3 align="center">Curso de Fundamentos de React</h3>
   <p align="center">con Dulcinea Peña</h3> 
 </div>
-
+Este curso de introducción a React te dará las bases para entender y dar mantenimiento a código de legado. También te dará un primer acercamiento a las nuevas características y funciones de programación en React como Hooks de forma introductoria.
 ### Tecnologías usadas
 
 El curso, sus ejemplos y proyectos propuestos están desarrollados en React.
